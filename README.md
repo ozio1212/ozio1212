@@ -30,7 +30,12 @@
 ## 📂 Selected Projects
 
 ### 🛰️ 3D Motion Simulation (MATLAB)
+> [GitHub repo](https://github.com/ozio1212/3D-Motion-Simulation)  
 > Built a 3D physics-based simulation of a moving object affected by air resistance and gravity. Calculated position, velocity, acceleration, and net force. Included customizable starting velocity and projection angles. Generated plot of motion parameters.
+
+### 🧮 Mini Casino – Console-Based Game (Python)
+> [GitHub repo](https://github.com/ozio1212/mini_casino)  
+A simple console-based casino simulation written in Python. Features basic game logic, betting mechanics, and randomization. Used to practice control structures and user input.
 
 ---
 
