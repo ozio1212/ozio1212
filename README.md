@@ -29,7 +29,7 @@
 
 ## 📂 Selected Projects
 
-### 🛰️ 3D Motion Simulation with Drag Force (MATLAB)
+### 🛰️ 3D Motion Simulation (MATLAB)
 > Built a 3D physics-based simulation of a moving object affected by air resistance and gravity. Calculated position, velocity, acceleration, and net force. Included customizable starting velocity and projection angles. Generated plot of motion parameters.
 
 ---
