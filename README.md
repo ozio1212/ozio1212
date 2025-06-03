@@ -29,9 +29,12 @@
 
 ## 📂 Selected Projects
 
-### 🛰️ 3D Motion Simulation (MATLAB)
+### 🛰️ 2D/3D Projectile Motion Simulator with Air Resistance (MATLAB)
 > [GitHub repo](https://github.com/ozio1212/3D-Motion-Simulation)  
-> Built a 3D physics-based simulation of a moving object affected by air resistance and gravity. Calculated position, velocity, acceleration, and net force. Included customizable starting velocity and projection angles. Generated plot of motion parameters.
+> A physics-based simulator of oblique projectile motion with air drag, supporting both 2D and 3D trajectories.  
+Built in MATLAB using numerical ODE solving (`ode23`) and animated in real time.  
+Includes user-defined input for mass, drag coefficient, initial velocity, and launch angles.  
+The simulation visualizes the object’s motion and automatically exports an animated `.gif` of the trajectory.
 
 ### 🧮 Mini Casino – Console-Based Game (Python)
 > [GitHub repo](https://github.com/ozio1212/mini_casino)  
