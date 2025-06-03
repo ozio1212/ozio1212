@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wiktor Oziewicz
+# 👋 Hi!
 
 🎓 Physics and nanotechnology student at Wrocław University of Science and Technology  
 📍 Based in Wrocław, Poland  
