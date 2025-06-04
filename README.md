@@ -47,8 +47,3 @@ A simple console-based casino simulation written in Python. Features basic game 
 - [LinkedIn](https://www.linkedin.com/in/wiktor-oziewicz-227162301/)
 - [Kaggle](https://www.kaggle.com/oziowski)
 - [GitHub](https://github.com/ozio1212)
-
----
-
-> ⭐ Like what I do? Give me a follow!  
-> 🛠️ Have a project idea or want to collaborate? Reach out!
