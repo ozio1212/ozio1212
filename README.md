@@ -1,29 +1,24 @@
-# 👋 Hi!
 
-🎓 Physics and nanotechnology student at Wrocław University of Science and Technology  
+🎓 Physics enthusiast & computer science student at Wrocław University of Science and Technology  
 📍 Based in Wrocław, Poland  
-🧠 Passionate about data analysis, numerical simulations, and applying physics in technology  
-🔧 I work with Python, MATLAB, and Excel on a daily basis – automating, analyzing, and visualizing data
+🧠 Passionate about data analysis, numerical simulations, and solving real-world problems with code  
 
 ---
 
 ## 🔬 About Me
 
-- Currently studying technical physics with a specialization in nanotechnology
+- Transitioned from technical physics (nanotechnology specialization) to computer science
 - Gaining hands-on experience in data science and machine learning
-- Comfortable working with large datasets, both simulated and experimental
+- Comfortable working with both simulated and real-world datasets
 - Publishing my work on GitHub and participating in Kaggle competitions
-- Interested in solving real-world problems using analytical tools and programming
+- Combining analytical thinking with programming to create meaningful tools and insights
 
 ---
 
 ## ⚙️ Technologies & Tools
 
-- **Languages:** Python, MATLAB
-- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn,
-- **Tools:** Git, Jupyter Notebook, Excel, Visual Studio Code
-- **Data Skills:** statistics, simulations, regression, exploratory data analysis
-- **Learning:** SQL, C/C++
+- **Languages:** Python, MATLAB  
+- **Tools:** Git, Jupyter Notebook, Excel
 
 ---
 
@@ -31,14 +26,7 @@
 
 ### 🛰️ 2D/3D Projectile Motion Simulator with Air Resistance (MATLAB)
 > [GitHub repo](https://github.com/ozio1212/3D-Motion-Simulation)  
-> A physics-based simulator of oblique projectile motion with air drag, supporting both 2D and 3D trajectories.  
-Built in MATLAB using numerical ODE solving (`ode23`) and animated in real time.  
-Includes user-defined input for mass, drag coefficient, initial velocity, and launch angles.  
-The simulation visualizes the object’s motion and automatically exports an animated `.gif` of the trajectory.
-
-### 🧮 Mini Casino – Console-Based Game (Python)
-> [GitHub repo](https://github.com/ozio1212/mini_casino)  
-A simple console-based casino simulation written in Python. Features basic game logic, betting mechanics, and randomization. Used to practice control structures and user input.
+Physics-based simulator of oblique projectile motion with drag (2D & 3D).  
 
 ---
 
@@ -46,4 +34,3 @@ A simple console-based casino simulation written in Python. Features basic game 
 
 - [LinkedIn](https://www.linkedin.com/in/wiktor-oziewicz-227162301/)
 - [Kaggle](https://www.kaggle.com/oziowski)
-- [GitHub](https://github.com/ozio1212)
