@@ -7,7 +7,7 @@
 
 ## 🔬 About Me
 
-- Transitioned from technical physics (nanotechnology specialization) to computer science
+- Transitioned from technical physics to computer science
 - Gaining hands-on experience in data science and machine learning
 - Comfortable working with both simulated and real-world datasets
 - Publishing my work on GitHub and participating in Kaggle competitions
@@ -17,16 +17,14 @@
 
 ## ⚙️ Technologies & Tools
 
-- **Languages:** Python, MATLAB  
+- **Languages:** Python, SQL  
 - **Tools:** Git, Jupyter Notebook, Excel
 
 ---
 
 ## 📂 Selected Projects
 
-### 🛰️ 2D/3D Projectile Motion Simulator with Air Resistance (MATLAB)
-> [GitHub repo](https://github.com/ozio1212/3D-Motion-Simulation)  
-Physics-based simulator of oblique projectile motion with drag (2D & 3D).  
+### W.I.P.
 
 ---
 
