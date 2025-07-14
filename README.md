@@ -1,16 +1,14 @@
 
-🎓 Physics enthusiast & computer science student at Wrocław University of Science and Technology  
+🎓 Physics enthusiast & student at Wrocław University of Science and Technology  
 📍 Based in Wrocław, Poland  
-🧠 Passionate about data analysis, numerical simulations, and solving real-world problems with code  
+🧠 Passionate about solving real-world problems with code  
 
 ---
 
 ## 🔬 About Me
 
-- Transitioned from technical physics to computer science
 - Gaining hands-on experience in data science and machine learning
 - Comfortable working with both simulated and real-world datasets
-- Publishing my work on GitHub and participating in Kaggle competitions
 - Combining analytical thinking with programming to create meaningful tools and insights
 
 ---
